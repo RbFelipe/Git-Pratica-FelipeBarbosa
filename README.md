@@ -5,3 +5,4 @@
 
 "Alteraï¿½ï¿½o realizada na branch conflito-local." 
 
+"Altera‡Æo realizada na branch conflito-github." 
