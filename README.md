@@ -1,8 +1,7 @@
-"Projeto Git Pr�tico" 
-"Avalia��o pr�tica de Git e GitHub." 
+"Projeto Git Prático"
+"Avaliação prática de Git e GitHub."
 
-"Altera��o realizada na branch principal." 
-
-"Altera��o realizada na branch conflito-local." 
-
-"Altera��o realizada na branch conflito-github." 
+"Alteração realizada na branch principal."
+"Alteração realizada na branch conflito-local."
+"Alteração realizada na branch conflito-github."
+"Teste"
