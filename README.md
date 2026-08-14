@@ -1,2 +1,3 @@
-"Projeto Git Pr tico" 
-"Avalia‡Æo pr tica de Git e GitHub." 
+"Projeto Git PrÂ tico" 
+"Avaliaâ€¡Ã†o prÂ tica de Git e GitHub." 
+"Teste"
